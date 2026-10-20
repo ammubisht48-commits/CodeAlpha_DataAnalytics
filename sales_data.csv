@@ -1,0 +1,11 @@
+product,category,Quantity,Price,Month,Sales
+Laptop,Electronics,2,50000,Jan,100000
+Mobile,Electronics,5,20000,Jan,100000
+Headphones,Accessories,10,1500,Jan,15000
+Laptop,Electronics,1,50000,Feb,50000
+Tablet,Electronics,3,25000,Feb,75000
+Mobile,Electronics,4,20000,Feb,80000
+Headphones,Accessories,6,1500,Mar,9000
+Tablet,Electronics,2,25000,Mar,50000
+Laptop,Electronics,3,50000,Mar,150000
+Mobile,Electronics,5,20000,Mar,100000
